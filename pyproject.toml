@@ -21,4 +21,4 @@ dependencies = [
 where = ["src"]
 
 [tool.setuptools_scm]
-write_to = "src/process_model/_version.py"
+write_to = "src/process/_version.py"
