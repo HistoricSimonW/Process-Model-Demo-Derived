@@ -11,7 +11,7 @@ authors = [
 ]
 
 dependencies = [
-    "git+https://github.com/HistoricSimonW/Process-Model",
+    "process_model @ git+https://github.com/HistoricSimonW/Process-Model",
 ]
 
 [tool.setuptools.package-dir]
